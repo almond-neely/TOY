@@ -1,0 +1,5 @@
+package toy.parser;
+
+public class TokenParserFactory{
+
+}
